@@ -6,9 +6,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.OpenApi.Models;
 using Projeto.Api.Domain.Interfaces.Services.TaxaJurosUseCases.Flow;
 using Projeto.Api.Host.DependencyInjection;
 using Projeto.Api.Service.Services.TaxaJurosUseCases.Flow;
+using Swashbuckle.Swagger;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,7 +32,19 @@ namespace Projeto.Api.Host
         {
             services.AddControllers();
 
-            services.AddSwaggerGen();
+            services.AddSwaggerGen(c =>
+             c.SwaggerDoc("v1",
+                 new OpenApiInfo
+                 {
+                     Title = "Projeto Api",
+                     Version = "v1",
+                     Description = "Exemplo de arquitetura de APIs criada com o ASP.NET Core",
+                     Contact = new OpenApiContact
+                     {
+                         Name = "Fabio Belther",
+                         Url = new Uri("https://github.com/fabiobelther")
+                     }
+                 }));
 
             services.AddServiceDependecies();
 
