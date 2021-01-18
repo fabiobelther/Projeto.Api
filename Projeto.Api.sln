@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto.Api.Domain", "Proje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto.Api.Service", "Projeto.Api.Service\Projeto.Api.Service.csproj", "{66A5A9EE-509B-47B1-9B82-4D2466CE1B15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.Api.Service.Test", "Projeto.Api.Service.Test\Projeto.Api.Service.Test.csproj", "{6908EF4D-6253-426B-A0E0-DD9DC4DEC78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto.Api.Service.Test", "Projeto.Api.Service.Test\Projeto.Api.Service.Test.csproj", "{6908EF4D-6253-426B-A0E0-DD9DC4DEC78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.Api.IntegrationTest", "Projeto.Api.IntegrationTest\Projeto.Api.IntegrationTest.csproj", "{B965F357-4DDE-48FF-A1B2-2667E6F0D384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6908EF4D-6253-426B-A0E0-DD9DC4DEC78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6908EF4D-6253-426B-A0E0-DD9DC4DEC78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6908EF4D-6253-426B-A0E0-DD9DC4DEC78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B965F357-4DDE-48FF-A1B2-2667E6F0D384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B965F357-4DDE-48FF-A1B2-2667E6F0D384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B965F357-4DDE-48FF-A1B2-2667E6F0D384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B965F357-4DDE-48FF-A1B2-2667E6F0D384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
