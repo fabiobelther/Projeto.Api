@@ -1,0 +1,12 @@
+C:\Projetos\Projeto.Api\Projeto.Api.Service\bin\Debug\netcoreapp3.1\Projeto.Api.Service.deps.json
+C:\Projetos\Projeto.Api\Projeto.Api.Service\bin\Debug\netcoreapp3.1\Projeto.Api.Service.dll
+C:\Projetos\Projeto.Api\Projeto.Api.Service\bin\Debug\netcoreapp3.1\Projeto.Api.Service.pdb
+C:\Projetos\Projeto.Api\Projeto.Api.Service\bin\Debug\netcoreapp3.1\Projeto.Api.Domain.dll
+C:\Projetos\Projeto.Api\Projeto.Api.Service\bin\Debug\netcoreapp3.1\Projeto.Api.Domain.pdb
+C:\Projetos\Projeto.Api\Projeto.Api.Service\obj\Debug\netcoreapp3.1\Projeto.Api.Service.csprojAssemblyReference.cache
+C:\Projetos\Projeto.Api\Projeto.Api.Service\obj\Debug\netcoreapp3.1\Projeto.Api.Service.AssemblyInfoInputs.cache
+C:\Projetos\Projeto.Api\Projeto.Api.Service\obj\Debug\netcoreapp3.1\Projeto.Api.Service.AssemblyInfo.cs
+C:\Projetos\Projeto.Api\Projeto.Api.Service\obj\Debug\netcoreapp3.1\Projeto.Api.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto.Api\Projeto.Api.Service\obj\Debug\netcoreapp3.1\Projeto.Api.Service.csproj.CopyComplete
+C:\Projetos\Projeto.Api\Projeto.Api.Service\obj\Debug\netcoreapp3.1\Projeto.Api.Service.dll
+C:\Projetos\Projeto.Api\Projeto.Api.Service\obj\Debug\netcoreapp3.1\Projeto.Api.Service.pdb
