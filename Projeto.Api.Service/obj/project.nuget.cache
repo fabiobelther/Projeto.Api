@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "omPu+4MtexlGttOtuobL+xydoNAYj/BrXgpOh2HyWMEwxWDLU/4SERJmf7peb7vcLZVjiRK7XUY3uCV3djbI1g==",
+  "dgSpecHash": "EsrufFWKFXBNwlTt1LBwYjTQGpuG+ZHm9Cn2iPJ0wHyousBq4HfyO7eIdxteqkwviUjOVS701nov33sg7uznpg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj",
+  "projectFilePath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
   ],

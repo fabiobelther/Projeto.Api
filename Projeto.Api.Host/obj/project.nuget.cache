@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rC9VnMXi67hPmnsUZ1bt3NlVePu7GsbTOtJu31etxSNJn9/qIdEYdWmgi3cqIf9nRClvbkUkW0xE0d2qBwIWBg==",
+  "dgSpecHash": "SJPESdLSe08O+zpZ/dhc2Vw1JxZdpDPcNPXpCjA4xppn0RnyLJ5BhCcXXf2vpMZI588p6tYuIdnqO6C/GKw0Bw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj",
+  "projectFilePath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",

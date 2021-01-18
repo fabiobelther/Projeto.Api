@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj": {}
+    "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj": {
+    "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
         "projectName": "Projeto.Api.Domain",
-        "projectPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
+        "projectPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Projetos\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj": {
+    "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj",
+        "projectUniqueName": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj",
         "projectName": "Projeto.Api.Host",
-        "projectPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj",
+        "projectPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Host\\Projeto.Api.Host.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Host\\obj\\",
+        "outputPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Host\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +82,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj"
+              "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj"
               },
-              "C:\\Projetos\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj": {
-                "projectPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj"
+              "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj": {
+                "projectPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Projetos\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj": {
+    "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj",
+        "projectUniqueName": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj",
         "projectName": "Projeto.Api.Service",
-        "projectPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj",
+        "projectPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Service\\Projeto.Api.Service.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Service\\obj\\",
+        "outputPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,8 +160,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj"
+              "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj"
               }
             }
           }

@@ -6,6 +6,6 @@ namespace Projeto.Api.Domain.Constantes
 {
     public static class UrlGitHubConstantes
     {
-        public const string UrlGitHub = "http:\\fabio.belther.com";
+        public const string UrlGitHub = "https://github.com/fabiobelther/Projeto.Api";
     }
 }

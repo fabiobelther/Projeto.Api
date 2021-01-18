@@ -7,3 +7,12 @@ C:\Projetos\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.D
 C:\Projetos\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.csproj.CoreCompileInputs.cache
 C:\Projetos\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.dll
 C:\Projetos\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.pdb
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\bin\Debug\netcoreapp3.1\Projeto.Api.Domain.deps.json
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\bin\Debug\netcoreapp3.1\Projeto.Api.Domain.dll
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\bin\Debug\netcoreapp3.1\Projeto.Api.Domain.pdb
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.csprojAssemblyReference.cache
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.AssemblyInfo.cs
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.dll
+C:\Projetos\GitHub\Projeto.Api\Projeto.Api.Domain\obj\Debug\netcoreapp3.1\Projeto.Api.Domain.pdb

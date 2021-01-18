@@ -34,7 +34,7 @@ namespace Projeto.Api.Host.Controllers.Api2.v1
         [SwaggerResponse(400, Description = "Bad Request")]
         [SwaggerResponse(500, Description = "Internal server error")]
         [SwaggerResponse(404, Description = "Não foi possivel calcular os juros")]
-        [ProducesResponseType(typeof(string), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(decimal), StatusCodes.Status200OK)]
         [SwaggerOperation(operationId: "Calcula_Juros_Get")]
         public async Task<ActionResult> GetCalculaJuros(decimal valorInicial, int tempo)
         {

@@ -16,14 +16,14 @@ namespace Projeto.Api.Service.Services.CalculaJurosUseCases.Flow
             _buscarTaxaJurosFlow = buscarTaxaJurosFlow;
         }
 
-        public async Task<string> Execute(decimal valorInicial, int tempo)
+        public async Task<decimal> Execute(decimal valorInicial, int tempo)
         {
             try
             {
                 var juros = _buscarTaxaJurosFlow.Execute().Result;
                 var valorFinal = valorInicial * (decimal)Math.Pow((double)(1 + juros), tempo);
-                //var retorno = Math.Truncate(valorFinal * 100) / 100;
-                var retorno = valorFinal.ToString("N2", new CultureInfo("pt-BR"));
+                var retorno = Math.Truncate(valorFinal * 100) / 100;
+                //var retorno = valorFinal.ToString("N2", new CultureInfo("pt-BR"));
                 return retorno;
             }
             catch (Exception ex)

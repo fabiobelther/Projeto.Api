@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
       "projectName": "Projeto.Api.Domain",
-      "projectPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
+      "projectPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\Projeto.Api.Domain.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Projeto.Api\\Projeto.Api.Domain\\obj\\",
+      "outputPath": "C:\\Projetos\\GitHub\\Projeto.Api\\Projeto.Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
