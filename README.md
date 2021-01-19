@@ -24,7 +24,7 @@ To run this project you need to download [Visual Studio Code](https://code.visua
 Go to path and run the command on GitBash terminal
 
 ```powershell
-git clone <https://github.com/fabiobelther/Projeto.Api.git>
+git clone https://github.com/fabiobelther/Projeto.Api.git
 ```
 
 ### Running
