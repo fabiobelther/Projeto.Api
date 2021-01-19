@@ -28,7 +28,7 @@ namespace Projeto.Api.Host.Controllers.Api2.v1
         /// <summary>
         /// Calcula os juros de um valor
         /// </summary>
-        [HttpGet("v1/api2/calculaJuros")]
+        [HttpGet("v1/calculaJuros")]
         [Consumes("application/json")]
         [SwaggerResponse(200, Description = "Os juros foram calculados.")]
         [SwaggerResponse(400, Description = "Bad Request")]
@@ -48,7 +48,7 @@ namespace Projeto.Api.Host.Controllers.Api2.v1
         /// <summary>
         /// Retorna o caminho aonde o codigo se encontra no GitHub
         /// </summary>
-        [HttpGet("v1/api2/showmethecode")]
+        [HttpGet("v1/showmethecode")]
         [Consumes("application/json")]
         [SwaggerResponse(200, Description = "O caminho foi encontrado")]
         [SwaggerResponse(400, Description = "Bad Request")]

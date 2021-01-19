@@ -23,7 +23,7 @@ namespace Projeto.Api.Host.Controllers.Api1.v1
         /// <summary>
         /// Retorna taxa de juros
         /// </summary>
-        [HttpGet("v1/api1/taxaJuros")]
+        [HttpGet("v1/taxaJuros")]
         [Consumes("application/json")]
         [SwaggerResponse(200, Description = "A taxa de juros foi encontrada.")]
         [SwaggerResponse(400, Description = "Bad Request")]

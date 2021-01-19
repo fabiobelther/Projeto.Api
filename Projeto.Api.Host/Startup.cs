@@ -58,6 +58,7 @@ namespace Projeto.Api.Host
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.RoutePrefix = string.Empty;
             });
 
             if (env.IsDevelopment())

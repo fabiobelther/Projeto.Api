@@ -18,9 +18,9 @@ namespace Projeto.Api.IntegrationTest
 
         public static IEnumerable<object[]> ValidUrls => new List<object[]>
         {
-            new object[] {"/v1/api1/taxaJuros", "0.01", "application/json"},
-            new object[] {"/v1/api2/calculaJuros?valorinicial=100&tempo=5", "105.1", "application/json"},
-            new object[] {"/v1/api2/showmethecode", "https://github.com/fabiobelther/Projeto.Api", "text/plain" }
+            new object[] {"/v1/taxaJuros", "0.01", "application/json"},
+            new object[] {"/v1/calculaJuros?valorinicial=100&tempo=5", "105.1", "application/json"},
+            new object[] {"/v1/showmethecode", "https://github.com/fabiobelther/Projeto.Api", "text/plain" }
         };
 
         [Theory]
