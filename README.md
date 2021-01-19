@@ -44,7 +44,7 @@ dotnet run;
 ```
 
 The main page should open automatically. If not, go to:
-[Swagger - Projeto.Api](https://localhost:5001/swagger/index.html)
+[Swagger - Projeto.Api](https://localhost:5001)
 
 
 ## Running the tests
